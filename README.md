@@ -1,2 +1,2 @@
-# R-Program
-Collection of my R program files
+# My SQL & R
+Collection of my SQL and R program files
